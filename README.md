@@ -17,7 +17,7 @@ A simple straightforward Question and Answer chatbot constructed using a LLM API
 
 #### Deployed on [HuggingFace](https://huggingface.co/)
 ## Project 2: Simple Conversational app
-A minimal conversational chatbot which recalls its past interactions, built using a LLM API similar to [Project 1](#Project-1:-Simple-Q&A-app)
+A minimal conversational chatbot which recalls its past interactions, built using a LLM API similar to [Project 1](#project-1-simple-qa-app)
 
 ![alt text](project2/image1.png)
 ![alt text](project2/image2.png)
