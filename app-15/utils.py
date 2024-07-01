@@ -30,6 +30,6 @@ def email_summary(file):
     print(result["text"])
 
 
-    agent.run("Send an Email to suhaas.yadavalli@gmail.com via gmail summarizing the following text provided below : "+result["text"])
+    agent.run("Send an Email to @gmail.com via gmail summarizing the following text provided below : "+result["text"])
 
 
